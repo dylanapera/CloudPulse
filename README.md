@@ -7,8 +7,9 @@ Example result:
 
 ## Goal
 This project provides a visual map of ASEAN countries and their **cloud maturity levels**.  
-The purpose is to **showcase cloud adoption trends** across the region and their geographical locations.
+The purpose is to **showcase cloud adoption trends** across the region and their geographical locations. 
 
+#### Get Started [SetupGuide](./SetupGuide.md)
 ---
 
 ## Technology Stack
